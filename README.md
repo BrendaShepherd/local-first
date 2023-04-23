@@ -1,3 +1,3 @@
 This is some text. Look at the Git on the right.
 
-Here is more text.
+I deleted and added new text.
